@@ -1,4 +1,4 @@
-# ZaverecnyProjekt
+# ZaverecnyProjekt - Prace se zvukem
 
 # aplikace
 aplikace pracujici se zvukem
