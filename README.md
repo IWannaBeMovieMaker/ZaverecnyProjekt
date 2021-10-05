@@ -1,12 +1,13 @@
 # ZaverecnyProjekt
 
-aplikace
+# aplikace
 aplikace pracujici se zvukem
 vyhledavani a spousteni pomoci aplikace
 
-google assistant
+
+# google assistant
 raspberry pi
 
-mobilni aplikace pracujici se zvukem
+# mobilni aplikace pracujici se zvukem
 prevedeni zvuku do textu
 hlasova zprava
