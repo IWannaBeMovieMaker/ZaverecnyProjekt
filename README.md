@@ -1,16 +1,10 @@
-# ZaverecnyProjekt - Prace se zvukem
-
-# aplikace
-aplikace pracujici se zvukem
-vyhledavani a spousteni pomoci aplikace
-
-# materialy:
-https://www.searchenginejournal.com/voice-search-optimization-strategy/379946/
-
-https://www.jetson.ai/blog/posts/voice-search-apps
-
-https://www.wordstream.com/blog/ws/2017/03/14/google-voice-search 
+# ZaverecnyProjekt - Hra
+## vývoj prostředí: Godot
+## jazyk: Python/C#
 
 
-# google assistant
-raspberry pi
+## Rozdělení projektu
+* Naučení se/poznání vývoj prostředí
+* První pokusy jednoduchých 2D her
+* Naplánování hry závěrečného projektu
+* Tvorba závěrečného projektu
